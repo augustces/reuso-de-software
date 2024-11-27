@@ -1,0 +1,11 @@
+C:\Users\augxu\OneDrive\Documentos\Reuso de Software\atividade_01\app\target\debug\deps\liblibrary-b4e2e3b263f82eb9.rmeta: C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\lib.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\hosting.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\serving.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\back_of_house.rs
+
+C:\Users\augxu\OneDrive\Documentos\Reuso de Software\atividade_01\app\target\debug\deps\liblibrary-b4e2e3b263f82eb9.rlib: C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\lib.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\hosting.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\serving.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\back_of_house.rs
+
+C:\Users\augxu\OneDrive\Documentos\Reuso de Software\atividade_01\app\target\debug\deps\library-b4e2e3b263f82eb9.d: C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\lib.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\hosting.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\serving.rs C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\back_of_house.rs
+
+C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\lib.rs:
+C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house.rs:
+C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\hosting.rs:
+C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\front_of_house\serving.rs:
+C:\Users\augxu\OneDrive\Documentos\Reuso\ de\ Software\atividade_01\library\src\back_of_house.rs:
