@@ -1,0 +1,52 @@
+{
+    "1": {
+        "titulo": "Introdução à Programação",
+        "descricao": "Aprenda os conceitos básicos de programação usando Python.",
+        "carga_horaria": 40
+    },
+    "2": {
+        "titulo": "Desenvolvimento Web com JavaScript",
+        "descricao": "Curso completo sobre HTML, CSS e JavaScript.",
+        "carga_horaria": 60
+    },
+    "3": {
+        "titulo": "Banco de Dados SQL",
+        "descricao": "Aprenda a modelagem de dados e consultas SQL.",
+        "carga_horaria": 50
+    },
+    "4": {
+        "titulo": "Machine Learning Básico",
+        "descricao": "Conceitos iniciais de aprendizado de máquina com Scikit-Learn.",
+        "carga_horaria": 45
+    },
+    "5": {
+        "titulo": "Desenvolvimento de APIs com FastAPI",
+        "descricao": "Crie APIs rápidas e eficientes usando FastAPI.",
+        "carga_horaria": 35
+    },
+    "6": {
+        "titulo": "Desenvolvimento Mobile com Flutter",
+        "descricao": "Aprenda a criar aplicativos móveis para Android e iOS com Flutter.",
+        "carga_horaria": 55
+    },
+    "7": {
+        "titulo": "Administração de Servidores Linux",
+        "descricao": "Gerenciamento de servidores e comandos essenciais do Linux.",
+        "carga_horaria": 50
+    },
+    "8": {
+        "titulo": "Cibersegurança e Proteção de Dados",
+        "descricao": "Fundamentos de segurança da informação e proteção contra ataques.",
+        "carga_horaria": 40
+    },
+    "9": {
+        "titulo": "Inteligência Artificial Aplicada",
+        "descricao": "Uso prático da IA em diferentes setores e aplicações.",
+        "carga_horaria": 65
+    },
+    "10": {
+        "titulo": "Lógica para Computação",
+        "descricao": "Ensinar a forma de raciocinar com linguagem lógica.",
+        "carga_horaria": 60
+    }
+}
