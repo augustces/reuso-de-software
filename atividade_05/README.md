@@ -8,7 +8,7 @@ O sistema desenvolvido é responsável pela gestão de informações de cursos d
 
 ## Organização do Projeto
 
-atividade_05/ │── backend/ # Pasta com os arquivos do backend (API) │ ├── endpoints.py # Define os endpoints da API │ ├── consumoAPI.py # Gerencia o "banco de dados" JSON │── BD.json # Arquivo JSON que armazena os cursos │── atividade05.pdf # Descrição da atividade │── cliente.py # Cliente para interagir com a API
+atividade_05/ \\ │── backend/ # Pasta com os arquivos do backend (API) \\ ├── endpoints.py # Define os endpoints da API \\ ├── consumoAPI.py # Gerencia o "banco de dados" JSON \\ │── BD.json # Arquivo JSON que armazena os cursos \\ │── atividade05.pdf # Descrição da atividade \\ │── cliente.py # Cliente para interagir com a API
 
 ## Execução
 
