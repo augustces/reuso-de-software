@@ -8,22 +8,19 @@ O sistema desenvolvido é responsável pela gestão de informações de cursos d
 
 ## Organização do Projeto
 
-atividade_05/
-│── backend/
-
-│   │── endpoints.py  # Arquivo principal que inicia a API e define os endpoints
-
-│   │── consumoAPI.py  # Arquivo que gerencia o "banco de dados" JSON
-
-│── BD.json  # Arquivo com os cursos
-
-│── atividade05.pdf # Descrição do projeto
-
-│── cliente.py # Arquivo do cliente para interagir com a API
+atividade_05/ │── backend/ # Pasta com os arquivos do backend (API) │ ├── endpoints.py # Define os endpoints da API │ ├── consumoAPI.py # Gerencia o "banco de dados" JSON │── BD.json # Arquivo JSON que armazena os cursos │── atividade05.pdf # Descrição da atividade │── cliente.py # Cliente para interagir com a API
 
 ## Execução
 
 Para executar o projeto, primeiro execute o arquivo principal:
-    -  uvicorn backend.endpoints:app --reload
 
-Depois execute o código do cliente interagindo com o Menu via terminal.
+``` sh
+uvicorn backend.endpoints:app --reload
+```
+
+
+Depois execute o código do cliente interagindo com o Menu via terminal:
+
+``` sh
+python cliente.py
+```
