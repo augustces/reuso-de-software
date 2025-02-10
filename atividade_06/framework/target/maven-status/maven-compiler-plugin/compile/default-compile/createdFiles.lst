@@ -1,0 +1,6 @@
+com\example\base\InFileRepository.class
+com\example\entidades\Consulta.class
+com\example\Main.class
+com\example\base\CrudRepository.class
+com\example\base\InMemoryRepository.class
+com\example\entidades\Consulente.class

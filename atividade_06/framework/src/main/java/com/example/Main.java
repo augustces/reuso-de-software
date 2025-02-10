@@ -40,7 +40,7 @@ public class Main {
 
         // Consulta objeto de ID = 0
         System.out.println("Objeto de ID = 0:");
-        repo.findById(0);
+        System.out.println(repo.findById(0));
 
         // Listando objetos inseridos
         listagemConsulente(repo); 
@@ -74,7 +74,7 @@ public class Main {
 
         // Consulta objeto de ID = 1
         System.out.println("Objeto de ID = 1:");
-        repo.findById(1);
+        System.out.println(repo.findById(1));
 
         // Listagem dos objetos
         listagemConsulta(repo); 
